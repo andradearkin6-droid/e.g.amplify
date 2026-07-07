@@ -1,0 +1,13 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "admin123", "role": "admin", "points": 0 },
+    { "id": 2, "username": "jamie", "password": "employee123", "role": "employee", "points": 0 },
+    { "id": 3, "username": "riley", "password": "employee123", "role": "employee", "points": 0 }
+  ],
+  "campaigns": [
+    { "id": 1, "title": "Enterprise Cloud Migration Playbook", "points": 30, "createdAt": "2026-01-01T00:00:00.000Z" }
+  ],
+  "links": [],
+  "clicks": [],
+  "ledger": []
+}
